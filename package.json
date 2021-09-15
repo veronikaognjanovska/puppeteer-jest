@@ -1,0 +1,28 @@
+{
+  "name": "puppeteer-jest",
+  "version": "1.0.0",
+  "description": "Testing with Puppeteer and Jest",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "jest": "^27.0.6",
+    "jest-puppeteer": "^5.0.4",
+    "puppeteer": "^10.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/veronikaognjanovska/puppeteer-jest.git"
+  },
+  "author": "Veronika Ognjanovska",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/veronikaognjanovska/puppeteer-jest/issues"
+  },
+  "homepage": "https://github.com/veronikaognjanovska/puppeteer-jest#readme"
+}
